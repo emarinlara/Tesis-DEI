@@ -35,7 +35,6 @@ El sitio está organizado en cuatro módulos principales:
 ## Uso
 
 Los estudiantes pueden:
-- Revisar el contenido de cada módulo
 - Acceder directamente a NotebookLM para consultas específicas
 - Visualizar el contenido desde cualquier dispositivo
 
