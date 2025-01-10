@@ -1,4 +1,4 @@
-# Asistente de Proyecto de Graduación - Diseño Interior
+# Asistente de Proyecto Final de Graduación - Diseño de Espacio Interno
 
 Este es un sitio web informativo que proporciona acceso estructurado a la documentación y guía del Proyecto de Graduación en Diseño Interior.
 
